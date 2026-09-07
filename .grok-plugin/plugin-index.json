@@ -536,6 +536,18 @@
         ]
       }
     },
+    "premium-flight-architect": {
+      "sha": "9970563e645027cff3e2bfb87d21a5b78ede88ab",
+      "version": "1.2.1",
+      "components": {
+        "skills": [
+          {
+            "name": "premium-award-travel-architect",
+            "description": "Construct, verify, compare, and rank complete premium-cabin trips using cash, points, or mixed strategies. Use for Busi…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "93b00b89ef425a9c1bac0d0b317dfc49c930ac99",
       "components": {
